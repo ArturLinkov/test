@@ -1,0 +1,45 @@
+[33mcommit 69895d8ddeecc64216c0df5188c4b0572bc77c55[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/first_branch[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfirst_branch[m[33m)[m
+Author: unknown <8ridik8@mail.ru>
+Date:   Mon Jul 5 22:59:25 2021 +0400
+
+    new branch commit
+
+[33mcommit 0c5393bae0cc8263b0cb4941ecf0c7811eb7153e[m
+Author: unknown <8ridik8@mail.ru>
+Date:   Mon Jul 5 00:46:20 2021 +0400
+
+    test
+
+[33mcommit fc4b9bcaa516cd185c2334a282251889eede7ed4[m
+Author: unknown <8ridik8@mail.ru>
+Date:   Mon Jul 5 00:43:43 2021 +0400
+
+    new commit
+
+[33mcommit 82c28ef1e1bbe09de70ffeb7f613e709f23acd0b[m
+Author: unknown <8ridik8@mail.ru>
+Date:   Mon Jul 5 00:24:36 2021 +0400
+
+    new commit
+
+[33mcommit ab45a808d5d2368edcf30ba7a747d9ca92b1f76a[m
+Author: ArturLinkov <85570014+ArturLinkov@users.noreply.github.com>
+Date:   Sun Jul 4 22:21:04 2021 +0400
+
+    Update File1.txt
+    
+    insert blade
+
+[33mcommit 25420d88d511a78c66deeafd46fad5c6a7644036[m
+Author: ArturLinkov <85570014+ArturLinkov@users.noreply.github.com>
+Date:   Sun Jul 4 21:10:49 2021 +0400
+
+    Update File1.txt
+    
+    Adding the new line
+
+[33mcommit 96d458dd20485bbdbc65172f043c43bba5f1e8e6[m
+Author: unknown <8ridik8@mail.ru>
+Date:   Sun Jul 4 00:23:56 2021 +0400
+
+    test commit 1
