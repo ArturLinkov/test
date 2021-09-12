@@ -19,4 +19,7 @@ Serious Sam
 new branch line
 Hannibal
 Klarisa Starling
+<<<<<<< HEAD
 Germiona
+=======
+>>>>>>> 130048d172a52442ea600da26f9656e25883c486
